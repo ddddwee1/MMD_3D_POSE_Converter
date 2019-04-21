@@ -5,7 +5,7 @@ This tool is used to convert 17-point 3D skeleton into MMD motion (VMD) file. Th
 ### Usage
 
 ```
-1. Copy a reference vmd file for retrieve version and model information.
+1. Copy a reference vmd file for retrieving version and model information.
 
 2. Place your 3D predictions in './pred3d/' folder, and save the file names as '%08d.mat'. Several samples are provided in the folder.
 
